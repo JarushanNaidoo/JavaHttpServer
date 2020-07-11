@@ -1,2 +1,4 @@
 # JavaHttpServer
-A basic multi-threaded Java Server
+A basic threaded Java Server.
+
+Can create up to 10 servers concurrently.
